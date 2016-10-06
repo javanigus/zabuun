@@ -12,7 +12,7 @@
 			<?php include 'layout/side.php';?>
 			<div class="main">
 				<div class="location">
-					<p class="breadcrumbs">Advanced > School Life > Buying Textbooks</p>
+					<p class="breadcrumbs">Dialogues > School Life > Buying Textbooks</p>
 					<p class="expandcollapse">
 						<a href="">Expand All</a> | <a href="">Collapse All</a>
 					</p>
