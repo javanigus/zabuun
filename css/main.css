@@ -286,6 +286,53 @@ div.overlay {
 	z-index: 1000;
 	width: 100%;
 }
+/* mobile css for Research SANS@ RISK section */
+@media screen and (max-width: 640px) {
+	div.button-container {
+		text-align: center;
+		position: static;
+		display: block;
+	}
+	p.logo {
+		text-align: center;
+		display: block;
+	}
+	p.learn {
+		margin-left: 0;
+		padding: 1rem;
+		font-weight: 400;
+	}
+	div.content {
+	    flex-wrap: wrap;
+	}
+	div.side {
+	    width: 100%;
+	}
+	ol.dialogues li {
+	    font-size: 1.2em;
+    	margin-bottom: 0.2em;
+	}
+	div.location {
+	    flex-wrap: wrap;
+	    padding: 1em;
+	}
+	div.location p {
+	    margin-bottom: 1em;
+	}
+	div.sentence {
+	    display: block;
+	}
+	div.sentence p.english {
+	    margin-right: 0;
+	    margin-bottom: 1em;
+	}
+	div.location p.expandcollapse {
+		margin-bottom: 0;
+	}
+	a.button {
+		margin: 0 1em;
+	}
+}
 /* ==========================================================================
    Print styles.
    Inlined to avoid the additional HTTP request:
