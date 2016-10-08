@@ -490,9 +490,9 @@ div.overlay {
 	z-index: 1000;
 	width: 100%;
 }
-.videoWrapper iframe {
-	margin: 0 auto;
+div.videoWrapper {
 	display: block;
+	text-align: center;
 }
 div.controls {
 	justify-content: center;

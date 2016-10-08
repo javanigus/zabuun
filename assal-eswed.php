@@ -21,7 +21,7 @@
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/bGwA6mUbC1U?rel=0" frameborder="0" allowfullscreen></iframe>
 				</div>
 				<div class="controls">
-						<p><b>Increase speed : </b> Shift + > <br> <b>Decrease speed : </b> Shift + <</p>
+						<p><b>Increase speed : </b> Shift + > <br> <b>Decrease speed : </b> Shift + &lt;</p>
 						<p><b>Rewind 5 seconds : </b> Left arrow <br>
 						<b>Rewind 10 seconds : </b> J or Ctrl + Left arrow</p>
 						<p><b>Pause or play : </b> K or space bar</p>
