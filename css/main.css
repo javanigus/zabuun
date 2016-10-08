@@ -707,6 +707,7 @@ div.overlay {
 	text-align: center;
 	width: 560px;
 	height: 315px;
+	margin: 0 auto;
 }
 
 
@@ -1706,6 +1707,10 @@ p.halfspeed {
 	}
 	div.controls p {
 		margin: 0;
+		border-radius: 0;
+	}
+	p.halfspeed {
+		border-radius: 0;
 	}
 }
 /* ==========================================================================
