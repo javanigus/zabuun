@@ -18,7 +18,7 @@
 					</p>
 				</div>
 				<div class="videoWrapper">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/bGwA6mUbC1U?rel=0" frameborder="0" allowfullscreen></iframe>
+					<iframe width="100%" height="100%" src="https://www.youtube.com/embed/bGwA6mUbC1U?rel=0" frameborder="0" allowfullscreen></iframe>
 				</div>
 				<div class="controls">
 						<p><b>Increase speed : </b> Shift + > <br> <b>Decrease speed : </b> Shift + &lt;</p>
