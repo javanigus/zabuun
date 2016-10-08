@@ -2,7 +2,7 @@
 	<a class="category">Movies (1)</a>
 		<div class="container hidden">
 			<ol class="dialogues">
-				<li><a href="/index.php">Assal Eswed</a></li>
+				<li><a href="assal-eswed.php">Assal Eswed</a></li>
 			</ol>
 		</div>
 	<a class="category">Songs (1)</a>
