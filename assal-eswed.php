@@ -19,14 +19,14 @@
 				</div>
 				<div class="videoWrapper">
 					<iframe width="560" height="315" src="https://www.youtube.com/embed/bGwA6mUbC1U?rel=0" frameborder="0" allowfullscreen></iframe>
-					<div class="controls">
+				</div>
+				<div class="controls">
 						<p><b>Increase speed : </b> Shift + > <br> <b>Decrease speed : </b> Shift + <</p>
 						<p><b>Rewind 5 seconds : </b> Left arrow <br>
 						<b>Rewind 10 seconds : </b> J or Ctrl + Left arrow</p>
 						<p><b>Pause or play : </b> K or space bar</p>
 					</div>
 					<p class="halfspeed">Note :  Egyptians talk VERY fast! To help hear the words they are saying, use the YouTube feature that let's you play the video at half the speed.</p>
-				</div>
 				<!-- BEGIN SENTENCES -->
 				<div class="sentence-container">
      <div class="overlay-container">
