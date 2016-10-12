@@ -1,3 +1,7 @@
+<?php set_include_path($_SERVER['DOCUMENT_ROOT'] ); 
+echo get_include_path() . "<br>";
+echo  $_SERVER['DOCUMENT_ROOT'];
+?>
 <!doctype html>
 <html class="no-js" lang="">
 	<head>
