@@ -9,7 +9,7 @@
 		<?php include '/layout/ie8.php';?>
 		<?php include '/layout/header.php';?>
 		<div class="content">
-			<?php include 'layout/side.php';?>
+			<?php include '/layout/side.php';?>
 			<div class="main">
 				<div class="location">
 					<p class="breadcrumbs">Dialogues > School Life > Buying Textbooks</p>
@@ -69,7 +69,7 @@
 				</div>
 			</div>
 		</div>
-		<?php include 'layout/footer.php';?>
-		<?php include 'layout/scripts.php';?>
+		<?php include '/layout/footer.php';?>
+		<?php include '/layout/scripts.php';?>
 	</body>
 </html>
