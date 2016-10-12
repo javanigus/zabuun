@@ -11,7 +11,7 @@ echo  $_SERVER['DOCUMENT_ROOT'];
 	</head>
 	<body>
 		<?php include '/layout/ie8.php';?>
-		<?php include '/layout/header.php';?>
+		<?php include '/home/javanigus/public_html/layout/header.php';?>
 		<div class="content">
 			<?php include '/layout/side.php';?>
 			<div class="main">
