@@ -292,24 +292,6 @@ div.content {
 
 
 
-
-/* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
-
-div.side {
-	background-color: #f5f5f5;
-	width: 300px;
-	min-width: 300px;
-	padding: 20px 10px;
-	display: none;
-}
-
-
-
-
 /* ==========================================================================
    Print styles.
    Inlined to avoid the additional HTTP request:
@@ -1490,7 +1472,6 @@ div.side {
 	width: 300px;
 	min-width: 300px;
 	padding: 20px 10px;
-	display: none;
 }
 div.main {
 	flex-grow: 1;
