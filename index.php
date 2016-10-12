@@ -3,11 +3,11 @@
 	<head>
 		<title>Zabuun - Learn Egyptian Arabic for English speakers</title>
 		<meta name="description" content="">
-		<?php include 'layout/head.php';?>
+		<?php include '/layout/head.php';?>
 	</head>
 	<body>
 		<?php include '/layout/ie8.php';?>
-		<?php include 'layout/header.php';?>
+		<?php include '/layout/header.php';?>
 		<div class="content">
 			<?php include 'layout/side.php';?>
 			<div class="main">
