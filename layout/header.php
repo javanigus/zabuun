@@ -6,5 +6,5 @@
 	</div>
 </div>
 <div class="subheader">
-	<p class="learn">Learn Egyptian Colloquial Arabic by Reading and Listening to Dialogues, Movies, Songs and Stories</p>
+	<p class="learn">Learn Arabic by Reading and Listening to Dialogues, Movies, Songs and Stories</p>
 </div>
