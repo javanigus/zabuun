@@ -11,10 +11,10 @@
 		<div class="content">
 			<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/side.php';?>
 			<div class="main">
+				<p class="breadcrumbs">Dialogues > School Life > Buying Textbooks</p>
 				<div class="location">
-					<p class="breadcrumbs">Dialogues > School Life > Buying Textbooks</p>
 					<p class="expandcollapse">
-						<a href="">Expand All</a> | <a href="">Collapse All</a>
+						<a href="">Modern Standard Arabic (MSA)</a> | <a href="">Egyptian Colloquial Arabic (ECA)</a> | <a href="">Both</a>
 					</p>
 				</div>
 				<div class="sentence-container">
