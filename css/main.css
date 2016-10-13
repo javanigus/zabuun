@@ -1546,7 +1546,7 @@ div.sentence-container {
 	padding-bottom: 1em;
 }
 div.sentence-container:hover {
-    background-color: #efefef;
+	background-color: #efefef;
 }
 div.sentence {
 	min-height: 40px;
@@ -1619,10 +1619,14 @@ div.controls p {
 }
 p.halfspeed {
 	font-size: 0.9em;
-    padding: 1em;
-    background-color: pink;
-    border-radius: 5px;
-    margin-top: 1em;
+	padding: 1em;
+	background-color: pink;
+	border-radius: 5px;
+	margin-top: 1em;
+}
+p.logo a {
+	color: #fff;
+	text-decoration: none;
 }
 /* mobile css for Research SANS@ RISK section */
 @media screen and (max-width: 640px) {
@@ -1641,27 +1645,27 @@ p.halfspeed {
 		font-weight: 400;
 	}
 	div.content {
-	    flex-wrap: wrap;
+		flex-wrap: wrap;
 	}
 	div.side {
-	    width: 100%;
+		width: 100%;
 	}
 	ol.dialogues li {
-	    font-size: 1.2em;
-    	margin-bottom: 0.2em;
+		font-size: 1.2em;
+		margin-bottom: 0.2em;
 	}
 	div.location {
-	    flex-wrap: wrap;
-	    padding: 1em;
+		flex-wrap: wrap;
+		padding: 1em;
 	}
 	div.location p {
 	}
 	div.sentence {
-	    display: block;
+		display: block;
 	}
 	div.sentence p.english {
-	    margin-right: 0;
-	    margin-bottom: 1em;
+		margin-right: 0;
+		margin-bottom: 1em;
 	}
 	div.location p.expandcollapse {
 		margin-bottom: 0;

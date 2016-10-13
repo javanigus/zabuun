@@ -1,5 +1,5 @@
 <div class="header">
-	<p class="logo">Zabuun</p>
+	<p class="logo"><a href="/">Zabuun</a></p>
 	<div class="button-container">
 		<a class="join button" href="#">Join</a>
 		<a class="login button" href="#">Log In</a>
