@@ -63,7 +63,7 @@
 				</div>
 				<div class="sentence-container">
 					<div class="sentence">
-						<p class="english">1. A: Hey, you're in my English class!</p>
+						<p class="english">2. A: Hey, you're in my English class!</p>
 						<a class="getaccess" href="">Get full access</a>
 					</div>
 				</div>
