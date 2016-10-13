@@ -1,0 +1,29 @@
+    <!doctype html>
+<html class="no-js" lang="">
+	<head>
+		<title>Zabuun - Learn Egyptian Arabic for English speakers</title>
+		<meta name="description" content="">
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/head.php';?>
+	</head>
+	<body>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/ie8.php';?>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/header.php';?>
+		<div class="content">
+			<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/side.php';?>
+			<div class="main">
+				<div class="location">
+					<p class="breadcrumbs">Essays > George W. Bush: A Controversial President</p>
+					<p class="expandcollapse">
+						<a href="">Expand All</a> | <a href="">Collapse All</a>
+					</p>
+				</div>
+				<!-- begin essay -->
+				<h1>George W. Bush: A Controversial President</h1>
+				<p>The most controversial president in the modern era was George Walker Bush, who served as the country's 43rd president, presiding over the United States during its grimmest days since the 1941 attack on Pearl Harbor. Bush was the standing president on the infamous September 11, 2001, terrorist attacks on New York and the Pentagon. Bush's reaction to the news following the attacks on the World Trade Center continues to cause high emotions on the American public because of his blasé stance.</p>  <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ResponsiveIndex970x90 --> <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4240992229388079" data-ad-slot="8135245216" data-ad-format="auto"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script></center>  <p class="MsoNormal" style="text-indent: .35in; line-height: 150%">The president was in Florida during the attacks visiting a school when told of the news. Instead of reacting with dispatch, Bush continued his activity seemingly unaffected by the terror unfolding in New York. He was criticized heavily for his apparent blasé attitude. This was the first of several controversial moves Bush made while serving as president.</p>  <p class="MsoNormal" style="text-indent: .35in; line-height: 150%">Bush was born on July 6, 1946 to a politically powerful family. His father George H.W. Bush served as the 41st U.S. president. George W. Bush also served as governor of the state of Texas from 1995 to 2000.</p>  <p class="MsoNormal" style="text-indent: .35in; line-height: 150%">His father once said that the younger Bush "faced the greatest challenge of any president since Abraham Lincoln." In reaction to 9/11, Bush deployed U.S. troops to Afghanistan to combat terrorism, and attacked Saddam Hussein's regime in Iraq because of inaccurate intelligence that claimed the Muslim leader was developing weapons of mass destruction. Both decisions hurt his presidency greatly.</p>  <p class="MsoNormal" style="text-indent: .35in; line-height: 150%">Bush's victories in both the 2000 and 2004 elections were also not without controversy, as both elections were contested. Many observers claimed improper tactics were used to gain the White House in both instances.</p>  </font><center><hr><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ESL728x15 --> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px" data-ad-client="ca-pub-4240992229388079" data-ad-slot="4358907616"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script><hr><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- 336x280_08122014 --> <ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-4240992229388079" data-ad-slot="8077378816"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <script type="text/javascript"><!-- google_ad_client = "ca-pub-7363809219244122"; google_ad_width = 336; google_ad_height = 280; //--> </script> <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"> </script> <script> var _comscore = _comscore || []; _comscore.push({ c1: "8", c2: "14880948" ,c3: "3" }); (function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })(); </script> <noscript> <img src="http://b.scorecardresearch.com/p?c1=8&c2=14880948&c3=3&c15=&cv=2.0&cj=1" /> </noscript> <script id="navegg" type="text/javascript" src="//tag.navdmp.com/tm18475.js" ></script></center>    <hr><p align="center"><font size="5">  <a href="../words/pw093.htm" target="_blank">Vocabulary</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../comp/pcomp093.htm" target="_blank">Comprehension</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../cloze/apcloze093.htm" target="_blank">Cloze</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../dict/pdict093.htm" target="_blank">Dictation</a>  </font></p>     <center><hr><font size="5"><a href="people092.htm"><img border="0" src="../pics/prev.gif" width="50" height="50"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../index.htm">MENU</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="people094.htm"><img border="0" src="../pics/next.gif" width="50" height="50"></a></font></center>  <p align="center"><small>Copyright &copy; 2016. All rights reserved.</small></p>   </div></body>  </html></p>
+				<!-- end essay -->
+			</div>
+		</div>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/footer.php';?>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/scripts.php';?>
+	</body>
+</html>

@@ -1,0 +1,29 @@
+    <!doctype html>
+<html class="no-js" lang="">
+	<head>
+		<title>Zabuun - Learn Egyptian Arabic for English speakers</title>
+		<meta name="description" content="">
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/head.php';?>
+	</head>
+	<body>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/ie8.php';?>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/header.php';?>
+		<div class="content">
+			<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/side.php';?>
+			<div class="main">
+				<div class="location">
+					<p class="breadcrumbs">Essays > You're Not My Daddy</p>
+					<p class="expandcollapse">
+						<a href="">Expand All</a> | <a href="">Collapse All</a>
+					</p>
+				</div>
+				<!-- begin essay -->
+				<h1>You're Not My Daddy</h1>
+				<p> Zach drove over to his fiancée's place. She was in China, visiting her parents. Her son Bradley hadn't gone with her. Bradley was a junior in high school. He neither liked nor disliked Zach, even though he had known Zach for three years. Zach was still trying to win Bradley over. He called Bradley to tell him that he was coming over. Bradley said okay. When Zach got there, he checked all of Christine's mail to see if there were any bills to pay. There were none. </p>  <p class="MsoNormal" style="text-indent: .35in; line-height: 150%"> He asked if Bradley wanted to drive Zach's car. Bradley had a driver's permit, and was always pestering his mom to let him drive her car. Bradley said all right. Zach told him not to speed, but he could drive anywhere he wanted. Bradley got on the 210 freeway and headed northwest to where it meets the 5. Zach gave Bradley a few driving tips: Don't drive next to big rigs, because you never know when they might tip over and crush you. Don't drive behind pickup trucks with loads, because you never know when something in the truck will get airborne and come flying through your windshield. </p>   <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ResponsiveIndex970x90 --> <ins class="adsbygoogle"      style="display:block"      data-ad-client="ca-pub-4240992229388079"      data-ad-slot="8135245216" data-ad-format="auto"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script></center>   <p class="MsoNormal" style="text-indent: .35in; line-height: 150%"> On their way back, Zach suggested that they stop at the driving range. He wanted to show Bradley how to play golf. Bradley wasn't enthusiastic. He preferred his video games. But Bradley soon discovered that golf was fun! He hit a large bucket of balls. Zach told him that he had a natural swing. The next day Bradley, for the first time ever, called Zach. He had a few blisters on his hands; Zach said that was normal. Then Bradley asked if Zach would come by next Saturday so they could take a drive and hit golf balls again. Zach said of course, with a happy feeling in his heart. </p>   </font><center><hr><center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- ESL728x15 --> <ins class="adsbygoogle" style="display:inline-block;width:728px;height:15px" data-ad-client="ca-pub-4240992229388079" data-ad-slot="4358907616"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script></center><hr><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> <!-- multi336x280 --> <ins class="adsbygoogle"      style="display:inline-block;width:336px;height:280px"      data-ad-client="ca-pub-4240992229388079"      data-ad-slot="2332180818"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>   &nbsp;&nbsp;&nbsp;&nbsp;<script type="text/javascript"><!-- google_ad_client = "ca-pub-7363809219244122"; google_ad_width = 336; google_ad_height = 280; //--> </script> <script type="text/javascript" src="//pagead2.googlesyndication.com/pagead/show_ads.js"> </script> <script>   var _comscore = _comscore || [];   _comscore.push({ c1: "8", c2: "14880948" ,c3: "3" });   (function() {     var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;     s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";     el.parentNode.insertBefore(s, el);   })(); </script> <noscript> <img src="http://b.scorecardresearch.com/p?c1=8&c2=14880948&c3=3&c15=&cv=2.0&cj=1" /> </noscript> <script id="navegg" type="text/javascript" src="//tag.navdmp.com/tm18475.js" ></script><hr></center>    <font size="5"><center><a href="../words/w069.htm" target="_blank">Vocabulary</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../qs/q069a.htm" target="_blank">Yes/No Questions</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../cloze/cloze069.htm" target="_blank">Cloze</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../cw/cw069.htm" target="_blank">Crossword</a> | <a href="../cwkeys/cwkey069.htm" target="_blank">Keys</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../dict/d069.htm" target="_blank">Dictation</a></center><hr>   <center><a href="s068.htm"><img border="0" src="../pics/prev.gif" width="40" height="40"></a> &nbsp;&nbsp;&nbsp; <a href="../../index4.htm">MENU</a> &nbsp;&nbsp;&nbsp; <a href="s070.htm"><img border="0" src="../pics/next.gif" width="40" height="40"></a></center></font>   <p align="center"><small>Copyright &copy; 2016. All rights reserved.</small></p>   </td></tr></table></body>  </html></p>
+				<!-- end essay -->
+			</div>
+		</div>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/footer.php';?>
+		<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/scripts.php';?>
+	</body>
+</html>

@@ -1624,7 +1624,7 @@
 <li><a href='/comments-on-the-new-president.php'>Comments on the New President</a></li>
 		</ol>
 		</div>
-	<a class="category">Essays (2518)</a>
+	<a class="category">Essays (2498)</a>
 		<div class="container hidden">
 		<ol class="dialogues">
 	<li><a href="/essay/0001-going-to-the-zoo.php">Going to the Zoo</a></li>
