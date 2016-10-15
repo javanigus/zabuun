@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="">
 	<head>
-		<title>Zabuun - Learn Arabic for English speakers</title>
+		<title>Zabuun - Learn Arabic for English Speakers</title>
 		<meta name="description" content="">
 		<?php include '/layout/head.php';?>
 	</head>
