@@ -1628,6 +1628,13 @@ p.logo a {
 	color: #fff;
 	text-decoration: none;
 }
+span.ar.quranText.top.rtl {
+	text-align: center;
+	display: block;
+}
+span.word.staticWord {
+	display: inline-block;
+}
 /* mobile css for Research SANS@ RISK section */
 @media screen and (max-width: 640px) {
 	div.button-container {

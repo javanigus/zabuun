@@ -1,18 +1,18 @@
 <div class="side">
 	<a class="category">Movies (1)</a>
-		<div class="container hidden">
+		<div class="container">
 			<ol class="dialogues">
 				<li><a href="/assal-eswed.php">Assal Eswed</a></li>
 			</ol>
 		</div>
 	<a class="category">Songs (1)</a>
-		<div class="container hidden">
+		<div class="container">
 			<ol class="dialogues">
 				<li><a href="/index.php">Habibi Ya Nuur Al-Ain</a></li>
 			</ol>
 		</div>
 	<a class="category">Quran (114)</a>
-		<div class="container hidden">
+		<div class="container">
 			<ol class="dialogues">
 				<li><a href="/quran/al-fatihah.php">Al-Fatihah (The Opening)</a></li>
 				<li><a href="/quran/al-baqarah.php">Al-Baqarah (The Cow)</a></li>
@@ -30,10 +30,10 @@
 				<li><a href="/quran/ibrahim.php">Ibrahim (Abraham)</a></li>
 				<li><a href="/quran/al-hijr.php">Al-Hijr (The Rock)</a></li>
 				<li><a href="/quran/an-nahl.php">An-Nahl (The Bee)</a></li>
-				<li><a href="/quran/bani israil.php">Bani Isra'il (The Israelites)</a></li>
+				<li><a href="/quran/bani-israil.php">Bani Isra'il (The Israelites)</a></li>
 				<li><a href="/quran/al-kahf.php">Al-Kahf (The Cave)</a></li>
 				<li><a href="/quran/maryam.php">Maryam (Mary)</a></li>
-				<li><a href="/quran/ta ha.php">Ta Ha (Ta Ha)</a></li>
+				<li><a href="/quran/ta-ha.php">Ta Ha (Ta Ha)</a></li>
 				<li><a href="/quran/al-anbiya.php">Al-Anbiya' (The Prophets)</a></li>
 				<li><a href="/quran/al-hajj.php">Al-Hajj (The Pilgrimage)</a></li>
 				<li><a href="/quran/al-muminun.php">Al-Mu'minun (The Believers)</a></li>
@@ -49,12 +49,12 @@
 				<li><a href="/quran/al-ahzab.php">Al-Ahzab (The Allies)</a></li>
 				<li><a href="/quran/al-saba.php">Al-Saba' (The Saba')</a></li>
 				<li><a href="/quran/al-fatir.php">Al-Fatir (The Originator)</a></li>
-				<li><a href="/quran/ya sin.php">Ya Sin (Ya Sin)</a></li>
+				<li><a href="/quran/ya-sin.php">Ya Sin (Ya Sin)</a></li>
 				<li><a href="/quran/as-saffat.php">As-Saffat (Those Ranging in Ranks)</a></li>
 				<li><a href="/quran/sad.php">Sad (Sad)</a></li>
 				<li><a href="/quran/az-zumar.php">Az-Zumar (The Companies)</a></li>
 				<li><a href="/quran/al-mumin.php">Al-Mu'min (The Believer)</a></li>
-				<li><a href="/quran/ha mim.php">Ha Mim (Ha Mim)</a></li>
+				<li><a href="/quran/ha-mim.php">Ha Mim (Ha Mim)</a></li>
 				<li><a href="/quran/ash-shura.php">Ash-Shura (Counsel)</a></li>
 				<li><a href="/quran/az-zukhruf.php">Az-Zukhruf (Gold)</a></li>
 				<li><a href="/quran/ad-dukhan.php">Ad-Dukhan (The Drought)</a></li>
@@ -131,7 +131,7 @@
 			</ol>
 		</div>
 	<a class="category">Dialogues (800)</a>
-		<div class="container hidden">
+		<div class="container">
 		<p class="topic">School Life</p><ol class="dialogues">
 <li><a href='/buying-textbooks.php'>Buying Textbooks</a></li>
 <li><a href='/class-registration.php'>Class Registration</a></li>
@@ -1744,7 +1744,7 @@
 		</ol>
 		</div>
 	<a class="category">Essays (2498)</a>
-		<div class="container hidden">
+		<div class="container">
 		<ol class="dialogues">
 	<li><a href="/essay/0001-going-to-the-zoo.php">Going to the Zoo</a></li>
 	<li><a href="/essay/0002-christmas-time.php">Christmas Time</a></li>
