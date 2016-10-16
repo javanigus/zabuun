@@ -11,6 +11,8 @@
 		<div class="content">
 			<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/side.php';?>
 			<div class="main">
+				<h1>Word-for-Word Arabic-English Translation of the Quran</h1>
+				<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/page-options.php';?>
 				<div class="location">
 					<p class="breadcrumbs">Quran > Al-Haqqah</p>
 				</div>

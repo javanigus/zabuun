@@ -1,6 +1,4 @@
-<a class="menu show hidden">Show Menu</a>
 <div class="side">
-	<a class="menu hide">Hide Menu</a>
 	<a class="category">Movies (1)</a>
 		<div class="container">
 			<ol class="dialogues">
@@ -16,120 +14,120 @@
 	<a class="category">Quran (114)</a>
 		<div class="container">
 			<ol class="dialogues">
-				<li><a href="/quran/1/?1-7">Al-Fatihah (The Opening) [7]</a></li>
-				<li><a href="/quran/2/?1-286">Al-Baqarah (The Cow) [286]</a></li>
-				<li><a href="/quran/3/?1-200">Al-'Imran (The Family of Amran) [200]</a></li>
-				<li><a href="/quran/4/?1-176">An-Nisa' (The Women) [176]</a></li>
-				<li><a href="/quran/5/?1-120">Al-Ma'idah (The Food) [120]</a></li>
-				<li><a href="/quran/6/?1-165">Al-An'am (The Cattle) [165]</a></li>
-				<li><a href="/quran/7/?1-206">Al-A'raf (The Elevated Places) [206]</a></li>
-				<li><a href="/quran/8/?1-75">Al-Anfal (Voluntary Gifts) [75]</a></li>
-				<li><a href="/quran/9/?1-129">Al-Bara'at / At-Taubah (The Immunity) [129]</a></li>
-				<li><a href="/quran/10/?1-109">Yunus (Jonah) [109]</a></li>
-				<li><a href="/quran/11/?1-123">Hud (Hud) [123]</a></li>
-				<li><a href="/quran/12/?1-111">Yusuf (Joseph) [111]</a></li>
-				<li><a href="/quran/13/?1-43">Ar-Ra'd (The Thunder) [43]</a></li>
-				<li><a href="/quran/14/?1-52">Ibrahim (Abraham) [52]</a></li>
-				<li><a href="/quran/15/?1-99">Al-Hijr (The Rock) [99]</a></li>
-				<li><a href="/quran/16/?1-128">An-Nahl (The Bee) [128]</a></li>
-				<li><a href="/quran/17/?1-111">Bani Isra'il (The Israelites) [111]</a></li>
-				<li><a href="/quran/18/?1-110">Al-Kahf (The Cave) [110]</a></li>
-				<li><a href="/quran/19/?1-98">Maryam (Mary) [98]</a></li>
-				<li><a href="/quran/20/?1-135">Ta Ha (Ta Ha) [135]</a></li>
-				<li><a href="/quran/21/?1-112">Al-Anbiya' (The Prophets) [112]</a></li>
-				<li><a href="/quran/22/?1-78">Al-Hajj (The Pilgrimage) [78]</a></li>
-				<li><a href="/quran/23/?1-118">Al-Mu'minun (The Believers) [118]</a></li>
-				<li><a href="/quran/24/?1-64">An-Nur (The Light) [64]</a></li>
-				<li><a href="/quran/25/?1-77">Al-Furqan (The Discrimination) [77]</a></li>
-				<li><a href="/quran/26/?1-227">Ash-Shu'ara' (The Poets) [227]</a></li>
-				<li><a href="/quran/27/?1-93">An-Naml (The Naml) [93]</a></li>
-				<li><a href="/quran/28/?1-88">Al-Qasas (The Narrative) [88]</a></li>
-				<li><a href="/quran/29/?1-69">Al-'Ankabut (The Spider) [69]</a></li>
-				<li><a href="/quran/30/?1-60">Ar-Rum (The Romans) [60]</a></li>
-				<li><a href="/quran/31/?1-34">Luqman (Luqman) [34]</a></li>
-				<li><a href="/quran/32/?1-30">As-Sajdah (The Adoration) [30]</a></li>
-				<li><a href="/quran/33/?1-73">Al-Ahzab (The Allies) [73]</a></li>
-				<li><a href="/quran/34/?1-54">Al-Saba' (The Saba') [54]</a></li>
-				<li><a href="/quran/35/?1-45">Al-Fatir (The Originator) [45]</a></li>
-				<li><a href="/quran/36/?1-83">Ya Sin (Ya Sin) [83]</a></li>
-				<li><a href="/quran/37/?1-182">As-Saffat (Those Ranging in Ranks) [182]</a></li>
-				<li><a href="/quran/38/?1-88">Sad (Sad) [88]</a></li>
-				<li><a href="/quran/39/?1-75">Az-Zumar (The Companies) [75]</a></li>
-				<li><a href="/quran/40/?1-85">Al-Mu'min (The Believer) [85]</a></li>
-				<li><a href="/quran/41/?1-54">Ha Mim (Ha Mim) [54]</a></li>
-				<li><a href="/quran/42/?1-53">Ash-Shura (Counsel) [53]</a></li>
-				<li><a href="/quran/43/?1-89">Az-Zukhruf (Gold) [89]</a></li>
-				<li><a href="/quran/44/?1-59">Ad-Dukhan (The Drought) [59]</a></li>
-				<li><a href="/quran/45/?1-37">Al-Jathiyah (The Kneeling) [37]</a></li>
-				<li><a href="/quran/46/?1-35">Al-Ahqaf (The Sandhills) [35]</a></li>
-				<li><a href="/quran/47/?1-38">Muhammad (Muhammad) [38]</a></li>
-				<li><a href="/quran/48/?1-29">Al-Fath (The Victory) [29]</a></li>
-				<li><a href="/quran/49/?1-18">Al-Hujurat (The Apartments) [18]</a></li>
-				<li><a href="/quran/50/?1-45">Qaf (Qaf) [45]</a></li>
-				<li><a href="/quran/51/?1-60">Ad-Dhariyat (The Scatterers) [60]</a></li>
-				<li><a href="/quran/52/?1-49">At-Tur (The Mountain) [49]</a></li>
-				<li><a href="/quran/53/?1-62">An-Najm (The Star) [62]</a></li>
-				<li><a href="/quran/54/?1-55">Al-Qamar (The Moon) [55]</a></li>
-				<li><a href="/quran/55/?1-78">Ar-Rahman (The Beneficent) [78]</a></li>
-				<li><a href="/quran/56/?1-96">Al-Waqi'ah (The Event) [96]</a></li>
-				<li><a href="/quran/57/?1-29">Al-Hadid (Iron) [29]</a></li>
-				<li><a href="/quran/58/?1-22">Al-Mujadilah (The Pleading Woman) [22]</a></li>
-				<li><a href="/quran/59/?1-24">Al-Hashr (The Banishment) [24]</a></li>
-				<li><a href="/quran/60/?1-13">Al-Mumtahanah (The Woman who is Examined) [13]</a></li>
-				<li><a href="/quran/61/?1-14">As-Saff (The Ranks) [14]</a></li>
-				<li><a href="/quran/62/?1-11">Al-Jumu'ah (The Congregation) [11]</a></li>
-				<li><a href="/quran/63/?1-11">Al-Munafiqun (The Hypocrites) [11]</a></li>
-				<li><a href="/quran/64/?1-18">At-Taghabun (The Manifestation of Losses) [18]</a></li>
-				<li><a href="/quran/65/?1-12">At-Talaq (Divorce) [12]</a></li>
-				<li><a href="/quran/66/?1-12">At-Tahrim (The Prohibition) [12]</a></li>
-				<li><a href="/quran/67/?1-30">Al-Mulk (The Kingdom) [30]</a></li>
-				<li><a href="/quran/68/?1-52">Al-Qalam (The Pen) [52]</a></li>
-				<li><a href="/quran/69/?1-52">Al-Haqqah (The Sure Truth) [52]</a></li>
-				<li><a href="/quran/70/?1-44">Al-Ma'arij (The Ways of Ascent) [44]</a></li>
-				<li><a href="/quran/71/?1-28">Nuh (Noah) [28]</a></li>
-				<li><a href="/quran/72/?1-28">Al-Jinn (The Jinn) [28]</a></li>
-				<li><a href="/quran/73/?1-20">Al-Muzzammil (The One Covering Himself) [20]</a></li>
-				<li><a href="/quran/74/?1-56">Al-Muddaththir (The One Wrapping Himself Up) [56]</a></li>
-				<li><a href="/quran/75/?1-40">Al-Qiyamah (The Resurrection) [40]</a></li>
-				<li><a href="/quran/76/?1-31">Al-Insan (The Man) [31]</a></li>
-				<li><a href="/quran/77/?1-50">Al-Mursalat (Those Sent Forth) [50]</a></li>
-				<li><a href="/quran/78/?1-40">An-Naba' (The Announcement) [40]</a></li>
-				<li><a href="/quran/79/?1-46">An-Nazi'at (Those Who Yearn) [46]</a></li>
-				<li><a href="/quran/80/?1-42">'Abasa (He Frowned) [42]</a></li>
-				<li><a href="/quran/81/?1-29">At-Takwir (The Folding Up) [29]</a></li>
-				<li><a href="/quran/82/?1-19">Al-Infitar (The Cleaving) [19]</a></li>
-				<li><a href="/quran/83/?1-36">At-Tatfif (Default in Duty) [36]</a></li>
-				<li><a href="/quran/84/?1-25">Al-Inshiqaq (The Bursting Asunder) [25]</a></li>
-				<li><a href="/quran/85/?1-22">Al-Buruj (The Stars) [22]</a></li>
-				<li><a href="/quran/86/?1-17">At-Tariq (The Comer by Night) [17]</a></li>
-				<li><a href="/quran/87/?1-19">Al-A'la (The Most High) [19]</a></li>
-				<li><a href="/quran/88/?1-26">Al-Ghashiyah (The Overwhelming Event) [26]</a></li>
-				<li><a href="/quran/89/?1-30">Al-Fajr (The Daybreak) [30]</a></li>
-				<li><a href="/quran/90/?1-20">Al-Balad (The City) [20]</a></li>
-				<li><a href="/quran/91/?1-15">Ash-Shams (The Sun) [15]</a></li>
-				<li><a href="/quran/92/?1-21">Al-Lail (The Night) [21]</a></li>
-				<li><a href="/quran/93/?1-11">Ad-Duha (The Brightness of the Day) [11]</a></li>
-				<li><a href="/quran/94/?1-8">Al-Inshirah (The Expansion) [8]</a></li>
-				<li><a href="/quran/95/?1-8">At-Tin (The Fig) [8]</a></li>
-				<li><a href="/quran/96/?1-19">Al-'Alaq (The Clot) [19]</a></li>
-				<li><a href="/quran/97/?1-5">Al-Qadr (The Majesty) [5]</a></li>
-				<li><a href="/quran/98/?1-8">Al-Bayyinah (The Clear Evidence) [8]</a></li>
-				<li><a href="/quran/99/?1-8">Al-Zilzal (The Shaking) [8]</a></li>
-				<li><a href="/quran/100/?1-11">Al-'Adiyat (The Assaulters) [11]</a></li>
-				<li><a href="/quran/101/?1-11">Al-Qari'ah (The Calamity) [11]</a></li>
-				<li><a href="/quran/102/?1-8">At-Takathur (The Abundance of Wealth) [8]</a></li>
-				<li><a href="/quran/103/?1-3">Al-'Asr (The Time) [3]</a></li>
-				<li><a href="/quran/104/?1-9">Al-Humazah (The Slanderer) [9]</a></li>
-				<li><a href="/quran/105/?1-5">Al-Fil (The Elephant) [5]</a></li>
-				<li><a href="/quran/106/?1-4">Al-Quraish (The Quraish) [4]</a></li>
-				<li><a href="/quran/107/?1-7">Al-Ma'un (Acts of Kindness) [7]</a></li>
-				<li><a href="/quran/108/?1-3">Al-Kauthar (The Abundance of Good) [3]</a></li>
-				<li><a href="/quran/109/?1-6">Al-Kafirun (The Disbelievers) [6]</a></li>
-				<li><a href="/quran/110/?1-3">An-Nasr (The Help) [3]</a></li>
-				<li><a href="/quran/111/?1-5">Al-Lahab (The Flame) [5]</a></li>
-				<li><a href="/quran/112/?1-4">Al-Ikhlas (The Unity) [4]</a></li>
-				<li><a href="/quran/113/?1-5">Al-Falaq (The Dawn) [5]</a></li>
-				<li><a href="/quran/114/?1-6">An-Nas (The Men) [6]</a></li>
+				<li><a href="/quran/1/?fromVerse=1&toVerse=7&hideMenu=false&hideHeader=false">Al-Fatihah (The Opening) [7]</a></li>
+				<li><a href="/quran/2/?fromVerse=1&toVerse=286&hideMenu=false&hideHeader=false">Al-Baqarah (The Cow) [286]</a></li>
+				<li><a href="/quran/3/?fromVerse=1&toVerse=200&hideMenu=false&hideHeader=false">Al-'Imran (The Family of Amran) [200]</a></li>
+				<li><a href="/quran/4/?fromVerse=1&toVerse=176&hideMenu=false&hideHeader=false">An-Nisa' (The Women) [176]</a></li>
+				<li><a href="/quran/5/?fromVerse=1&toVerse=120&hideMenu=false&hideHeader=false">Al-Ma'idah (The Food) [120]</a></li>
+				<li><a href="/quran/6/?fromVerse=1&toVerse=165&hideMenu=false&hideHeader=false">Al-An'am (The Cattle) [165]</a></li>
+				<li><a href="/quran/7/?fromVerse=1&toVerse=206&hideMenu=false&hideHeader=false">Al-A'raf (The Elevated Places) [206]</a></li>
+				<li><a href="/quran/8/?fromVerse=1&toVerse=75&hideMenu=false&hideHeader=false">Al-Anfal (Voluntary Gifts) [75]</a></li>
+				<li><a href="/quran/9/?fromVerse=1&toVerse=129&hideMenu=false&hideHeader=false">Al-Bara'at / At-Taubah (The Immunity) [129]</a></li>
+				<li><a href="/quran/10/?fromVerse=1&toVerse=109&hideMenu=false&hideHeader=false">Yunus (Jonah) [109]</a></li>
+				<li><a href="/quran/11/?fromVerse=1&toVerse=123&hideMenu=false&hideHeader=false">Hud (Hud) [123]</a></li>
+				<li><a href="/quran/12/?fromVerse=1&toVerse=111&hideMenu=false&hideHeader=false">Yusuf (Joseph) [111]</a></li>
+				<li><a href="/quran/13/?fromVerse=1&toVerse=43&hideMenu=false&hideHeader=false">Ar-Ra'd (The Thunder) [43]</a></li>
+				<li><a href="/quran/14/?fromVerse=1&toVerse=52&hideMenu=false&hideHeader=false">Ibrahim (Abraham) [52]</a></li>
+				<li><a href="/quran/15/?fromVerse=1&toVerse=99&hideMenu=false&hideHeader=false">Al-Hijr (The Rock) [99]</a></li>
+				<li><a href="/quran/16/?fromVerse=1&toVerse=128&hideMenu=false&hideHeader=false">An-Nahl (The Bee) [128]</a></li>
+				<li><a href="/quran/17/?fromVerse=1&toVerse=111&hideMenu=false&hideHeader=false">Bani Isra'il (The Israelites) [111]</a></li>
+				<li><a href="/quran/18/?fromVerse=1&toVerse=110&hideMenu=false&hideHeader=false">Al-Kahf (The Cave) [110]</a></li>
+				<li><a href="/quran/19/?fromVerse=1&toVerse=98&hideMenu=false&hideHeader=false">Maryam (Mary) [98]</a></li>
+				<li><a href="/quran/20/?fromVerse=1&toVerse=135&hideMenu=false&hideHeader=false">Ta Ha (Ta Ha) [135]</a></li>
+				<li><a href="/quran/21/?fromVerse=1&toVerse=112&hideMenu=false&hideHeader=false">Al-Anbiya' (The Prophets) [112]</a></li>
+				<li><a href="/quran/22/?fromVerse=1&toVerse=78&hideMenu=false&hideHeader=false">Al-Hajj (The Pilgrimage) [78]</a></li>
+				<li><a href="/quran/23/?fromVerse=1&toVerse=118&hideMenu=false&hideHeader=false">Al-Mu'minun (The Believers) [118]</a></li>
+				<li><a href="/quran/24/?fromVerse=1&toVerse=64&hideMenu=false&hideHeader=false">An-Nur (The Light) [64]</a></li>
+				<li><a href="/quran/25/?fromVerse=1&toVerse=77&hideMenu=false&hideHeader=false">Al-Furqan (The Discrimination) [77]</a></li>
+				<li><a href="/quran/26/?fromVerse=1&toVerse=227&hideMenu=false&hideHeader=false">Ash-Shu'ara' (The Poets) [227]</a></li>
+				<li><a href="/quran/27/?fromVerse=1&toVerse=93&hideMenu=false&hideHeader=false">An-Naml (The Naml) [93]</a></li>
+				<li><a href="/quran/28/?fromVerse=1&toVerse=88&hideMenu=false&hideHeader=false">Al-Qasas (The Narrative) [88]</a></li>
+				<li><a href="/quran/29/?fromVerse=1&toVerse=69&hideMenu=false&hideHeader=false">Al-'Ankabut (The Spider) [69]</a></li>
+				<li><a href="/quran/30/?fromVerse=1&toVerse=60&hideMenu=false&hideHeader=false">Ar-Rum (The Romans) [60]</a></li>
+				<li><a href="/quran/31/?fromVerse=1&toVerse=34&hideMenu=false&hideHeader=false">Luqman (Luqman) [34]</a></li>
+				<li><a href="/quran/32/?fromVerse=1&toVerse=30&hideMenu=false&hideHeader=false">As-Sajdah (The Adoration) [30]</a></li>
+				<li><a href="/quran/33/?fromVerse=1&toVerse=73&hideMenu=false&hideHeader=false">Al-Ahzab (The Allies) [73]</a></li>
+				<li><a href="/quran/34/?fromVerse=1&toVerse=54&hideMenu=false&hideHeader=false">Al-Saba' (The Saba') [54]</a></li>
+				<li><a href="/quran/35/?fromVerse=1&toVerse=45&hideMenu=false&hideHeader=false">Al-Fatir (The Originator) [45]</a></li>
+				<li><a href="/quran/36/?fromVerse=1&toVerse=83&hideMenu=false&hideHeader=false">Ya Sin (Ya Sin) [83]</a></li>
+				<li><a href="/quran/37/?fromVerse=1&toVerse=182&hideMenu=false&hideHeader=false">As-Saffat (Those Ranging in Ranks) [182]</a></li>
+				<li><a href="/quran/38/?fromVerse=1&toVerse=88&hideMenu=false&hideHeader=false">Sad (Sad) [88]</a></li>
+				<li><a href="/quran/39/?fromVerse=1&toVerse=75&hideMenu=false&hideHeader=false">Az-Zumar (The Companies) [75]</a></li>
+				<li><a href="/quran/40/?fromVerse=1&toVerse=85&hideMenu=false&hideHeader=false">Al-Mu'min (The Believer) [85]</a></li>
+				<li><a href="/quran/41/?fromVerse=1&toVerse=54&hideMenu=false&hideHeader=false">Ha Mim (Ha Mim) [54]</a></li>
+				<li><a href="/quran/42/?fromVerse=1&toVerse=53&hideMenu=false&hideHeader=false">Ash-Shura (Counsel) [53]</a></li>
+				<li><a href="/quran/43/?fromVerse=1&toVerse=89&hideMenu=false&hideHeader=false">Az-Zukhruf (Gold) [89]</a></li>
+				<li><a href="/quran/44/?fromVerse=1&toVerse=59&hideMenu=false&hideHeader=false">Ad-Dukhan (The Drought) [59]</a></li>
+				<li><a href="/quran/45/?fromVerse=1&toVerse=37&hideMenu=false&hideHeader=false">Al-Jathiyah (The Kneeling) [37]</a></li>
+				<li><a href="/quran/46/?fromVerse=1&toVerse=35&hideMenu=false&hideHeader=false">Al-Ahqaf (The Sandhills) [35]</a></li>
+				<li><a href="/quran/47/?fromVerse=1&toVerse=38&hideMenu=false&hideHeader=false">Muhammad (Muhammad) [38]</a></li>
+				<li><a href="/quran/48/?fromVerse=1&toVerse=29&hideMenu=false&hideHeader=false">Al-Fath (The Victory) [29]</a></li>
+				<li><a href="/quran/49/?fromVerse=1&toVerse=18&hideMenu=false&hideHeader=false">Al-Hujurat (The Apartments) [18]</a></li>
+				<li><a href="/quran/50/?fromVerse=1&toVerse=45&hideMenu=false&hideHeader=false">Qaf (Qaf) [45]</a></li>
+				<li><a href="/quran/51/?fromVerse=1&toVerse=60&hideMenu=false&hideHeader=false">Ad-Dhariyat (The Scatterers) [60]</a></li>
+				<li><a href="/quran/52/?fromVerse=1&toVerse=49&hideMenu=false&hideHeader=false">At-Tur (The Mountain) [49]</a></li>
+				<li><a href="/quran/53/?fromVerse=1&toVerse=62&hideMenu=false&hideHeader=false">An-Najm (The Star) [62]</a></li>
+				<li><a href="/quran/54/?fromVerse=1&toVerse=55&hideMenu=false&hideHeader=false">Al-Qamar (The Moon) [55]</a></li>
+				<li><a href="/quran/55/?fromVerse=1&toVerse=78&hideMenu=false&hideHeader=false">Ar-Rahman (The Beneficent) [78]</a></li>
+				<li><a href="/quran/56/?fromVerse=1&toVerse=96&hideMenu=false&hideHeader=false">Al-Waqi'ah (The Event) [96]</a></li>
+				<li><a href="/quran/57/?fromVerse=1&toVerse=29&hideMenu=false&hideHeader=false">Al-Hadid (Iron) [29]</a></li>
+				<li><a href="/quran/58/?fromVerse=1&toVerse=22&hideMenu=false&hideHeader=false">Al-Mujadilah (The Pleading Woman) [22]</a></li>
+				<li><a href="/quran/59/?fromVerse=1&toVerse=24&hideMenu=false&hideHeader=false">Al-Hashr (The Banishment) [24]</a></li>
+				<li><a href="/quran/60/?fromVerse=1&toVerse=13&hideMenu=false&hideHeader=false">Al-Mumtahanah (The Woman who is Examined) [13]</a></li>
+				<li><a href="/quran/61/?fromVerse=1&toVerse=14&hideMenu=false&hideHeader=false">As-Saff (The Ranks) [14]</a></li>
+				<li><a href="/quran/62/?fromVerse=1&toVerse=11&hideMenu=false&hideHeader=false">Al-Jumu'ah (The Congregation) [11]</a></li>
+				<li><a href="/quran/63/?fromVerse=1&toVerse=11&hideMenu=false&hideHeader=false">Al-Munafiqun (The Hypocrites) [11]</a></li>
+				<li><a href="/quran/64/?fromVerse=1&toVerse=18&hideMenu=false&hideHeader=false">At-Taghabun (The Manifestation of Losses) [18]</a></li>
+				<li><a href="/quran/65/?fromVerse=1&toVerse=12&hideMenu=false&hideHeader=false">At-Talaq (Divorce) [12]</a></li>
+				<li><a href="/quran/66/?fromVerse=1&toVerse=12&hideMenu=false&hideHeader=false">At-Tahrim (The Prohibition) [12]</a></li>
+				<li><a href="/quran/67/?fromVerse=1&toVerse=30&hideMenu=false&hideHeader=false">Al-Mulk (The Kingdom) [30]</a></li>
+				<li><a href="/quran/68/?fromVerse=1&toVerse=52&hideMenu=false&hideHeader=false">Al-Qalam (The Pen) [52]</a></li>
+				<li><a href="/quran/69/?fromVerse=1&toVerse=52&hideMenu=false&hideHeader=false">Al-Haqqah (The Sure Truth) [52]</a></li>
+				<li><a href="/quran/70/?fromVerse=1&toVerse=44&hideMenu=false&hideHeader=false">Al-Ma'arij (The Ways of Ascent) [44]</a></li>
+				<li><a href="/quran/71/?fromVerse=1&toVerse=28&hideMenu=false&hideHeader=false">Nuh (Noah) [28]</a></li>
+				<li><a href="/quran/72/?fromVerse=1&toVerse=28&hideMenu=false&hideHeader=false">Al-Jinn (The Jinn) [28]</a></li>
+				<li><a href="/quran/73/?fromVerse=1&toVerse=20&hideMenu=false&hideHeader=false">Al-Muzzammil (The One Covering Himself) [20]</a></li>
+				<li><a href="/quran/74/?fromVerse=1&toVerse=56&hideMenu=false&hideHeader=false">Al-Muddaththir (The One Wrapping Himself Up) [56]</a></li>
+				<li><a href="/quran/75/?fromVerse=1&toVerse=40&hideMenu=false&hideHeader=false">Al-Qiyamah (The Resurrection) [40]</a></li>
+				<li><a href="/quran/76/?fromVerse=1&toVerse=31&hideMenu=false&hideHeader=false">Al-Insan (The Man) [31]</a></li>
+				<li><a href="/quran/77/?fromVerse=1&toVerse=50&hideMenu=false&hideHeader=false">Al-Mursalat (Those Sent Forth) [50]</a></li>
+				<li><a href="/quran/78/?fromVerse=1&toVerse=40&hideMenu=false&hideHeader=false">An-Naba' (The Announcement) [40]</a></li>
+				<li><a href="/quran/79/?fromVerse=1&toVerse=46&hideMenu=false&hideHeader=false">An-Nazi'at (Those Who Yearn) [46]</a></li>
+				<li><a href="/quran/80/?fromVerse=1&toVerse=42&hideMenu=false&hideHeader=false">'Abasa (He Frowned) [42]</a></li>
+				<li><a href="/quran/81/?fromVerse=1&toVerse=29&hideMenu=false&hideHeader=false">At-Takwir (The Folding Up) [29]</a></li>
+				<li><a href="/quran/82/?fromVerse=1&toVerse=19&hideMenu=false&hideHeader=false">Al-Infitar (The Cleaving) [19]</a></li>
+				<li><a href="/quran/83/?fromVerse=1&toVerse=36&hideMenu=false&hideHeader=false">At-Tatfif (Default in Duty) [36]</a></li>
+				<li><a href="/quran/84/?fromVerse=1&toVerse=25&hideMenu=false&hideHeader=false">Al-Inshiqaq (The Bursting Asunder) [25]</a></li>
+				<li><a href="/quran/85/?fromVerse=1&toVerse=22&hideMenu=false&hideHeader=false">Al-Buruj (The Stars) [22]</a></li>
+				<li><a href="/quran/86/?fromVerse=1&toVerse=17&hideMenu=false&hideHeader=false">At-Tariq (The Comer by Night) [17]</a></li>
+				<li><a href="/quran/87/?fromVerse=1&toVerse=19&hideMenu=false&hideHeader=false">Al-A'la (The Most High) [19]</a></li>
+				<li><a href="/quran/88/?fromVerse=1&toVerse=26&hideMenu=false&hideHeader=false">Al-Ghashiyah (The Overwhelming Event) [26]</a></li>
+				<li><a href="/quran/89/?fromVerse=1&toVerse=30&hideMenu=false&hideHeader=false">Al-Fajr (The Daybreak) [30]</a></li>
+				<li><a href="/quran/90/?fromVerse=1&toVerse=20&hideMenu=false&hideHeader=false">Al-Balad (The City) [20]</a></li>
+				<li><a href="/quran/91/?fromVerse=1&toVerse=15&hideMenu=false&hideHeader=false">Ash-Shams (The Sun) [15]</a></li>
+				<li><a href="/quran/92/?fromVerse=1&toVerse=21&hideMenu=false&hideHeader=false">Al-Lail (The Night) [21]</a></li>
+				<li><a href="/quran/93/?fromVerse=1&toVerse=11&hideMenu=false&hideHeader=false">Ad-Duha (The Brightness of the Day) [11]</a></li>
+				<li><a href="/quran/94/?fromVerse=1&toVerse=8&hideMenu=false&hideHeader=false">Al-Inshirah (The Expansion) [8]</a></li>
+				<li><a href="/quran/95/?fromVerse=1&toVerse=8&hideMenu=false&hideHeader=false">At-Tin (The Fig) [8]</a></li>
+				<li><a href="/quran/96/?fromVerse=1&toVerse=19&hideMenu=false&hideHeader=false">Al-'Alaq (The Clot) [19]</a></li>
+				<li><a href="/quran/97/?fromVerse=1&toVerse=5&hideMenu=false&hideHeader=false">Al-Qadr (The Majesty) [5]</a></li>
+				<li><a href="/quran/98/?fromVerse=1&toVerse=8&hideMenu=false&hideHeader=false">Al-Bayyinah (The Clear Evidence) [8]</a></li>
+				<li><a href="/quran/99/?fromVerse=1&toVerse=8&hideMenu=false&hideHeader=false">Al-Zilzal (The Shaking) [8]</a></li>
+				<li><a href="/quran/100/?fromVerse=1&toVerse=11&hideMenu=false&hideHeader=false">Al-'Adiyat (The Assaulters) [11]</a></li>
+				<li><a href="/quran/101/?fromVerse=1&toVerse=11&hideMenu=false&hideHeader=false">Al-Qari'ah (The Calamity) [11]</a></li>
+				<li><a href="/quran/102/?fromVerse=1&toVerse=8&hideMenu=false&hideHeader=false">At-Takathur (The Abundance of Wealth) [8]</a></li>
+				<li><a href="/quran/103/?fromVerse=1&toVerse=3&hideMenu=false&hideHeader=false">Al-'Asr (The Time) [3]</a></li>
+				<li><a href="/quran/104/?fromVerse=1&toVerse=9&hideMenu=false&hideHeader=false">Al-Humazah (The Slanderer) [9]</a></li>
+				<li><a href="/quran/105/?fromVerse=1&toVerse=5&hideMenu=false&hideHeader=false">Al-Fil (The Elephant) [5]</a></li>
+				<li><a href="/quran/106/?fromVerse=1&toVerse=4&hideMenu=false&hideHeader=false">Al-Quraish (The Quraish) [4]</a></li>
+				<li><a href="/quran/107/?fromVerse=1&toVerse=7&hideMenu=false&hideHeader=false">Al-Ma'un (Acts of Kindness) [7]</a></li>
+				<li><a href="/quran/108/?fromVerse=1&toVerse=3&hideMenu=false&hideHeader=false">Al-Kauthar (The Abundance of Good) [3]</a></li>
+				<li><a href="/quran/109/?fromVerse=1&toVerse=6&hideMenu=false&hideHeader=false">Al-Kafirun (The Disbelievers) [6]</a></li>
+				<li><a href="/quran/110/?fromVerse=1&toVerse=3&hideMenu=false&hideHeader=false">An-Nasr (The Help) [3]</a></li>
+				<li><a href="/quran/111/?fromVerse=1&toVerse=5&hideMenu=false&hideHeader=false">Al-Lahab (The Flame) [5]</a></li>
+				<li><a href="/quran/112/?fromVerse=1&toVerse=4&hideMenu=false&hideHeader=false">Al-Ikhlas (The Unity) [4]</a></li>
+				<li><a href="/quran/113/?fromVerse=1&toVerse=5&hideMenu=false&hideHeader=false">Al-Falaq (The Dawn) [5]</a></li>
+				<li><a href="/quran/114/?fromVerse=1&toVerse=6&hideMenu=false&hideHeader=false">An-Nas (The Men) [6]</a></li>
 			</ol>
 		</div>
 	<a class="category">Dialogues (1481)</a>
@@ -2844,57 +2842,57 @@
 	<li><a href="/essay/1147-the-city-tour-bus.php">The City Tour Bus</a></li>
 	<li><a href="/essay/1148-superman-is-the-greatest.php">Superman Is the Greatest</a></li>
 	<li><a href="/essay/1149-she-catches-the-train.php">She Catches the Train</a></li>
-	<li><a href="/essay/1150-a-very-colorful-garden.php"><b> 1. A Very Colorful Garden </b></a></li>
-	<li><a href="/essay/1151-sleepover.php"><b> 2. Sleepover </b></a></li>
-	<li><a href="/essay/1152-a-movie-marathon.php"><b> 3. A Movie Marathon </b></a></li>
-	<li><a href="/essay/1153-eating-healthy.php"><b> 4. Eating Healthy </b></a></li>
-	<li><a href="/essay/1154-exercising-together.php"><b> 5. Exercising Together </b></a></li>
-	<li><a href="/essay/1155-the-spill-on-his-shirt.php"><b> 6. The Spill on His Shirt </b></a></li>
-	<li><a href="/essay/1156-shopping-for-a-dress.php"><b> 7. Shopping for a Dress </b></a></li>
-	<li><a href="/essay/1157-choosing-a-college.php"><b> 8. Choosing a College </b></a></li>
-	<li><a href="/essay/1158-a-gift-for-father-s-day.php"><b> 9. A Gift for Father's Day </b></a></li>
-	<li><a href="/essay/1159-sticker-collection.php"><b> 10. Sticker Collection </b></a></li>
-	<li><a href="/essay/1160-a-garbage-guy.php"><b> 11. A Garbage Guy </b></a></li>
-	<li><a href="/essay/1161-going-to-the-aquarium.php"><b> 12. Going to the Aquarium </b></a></li>
-	<li><a href="/essay/1162-he-is-car-sick.php"><b> 13. He Is Car Sick </b></a></li>
-	<li><a href="/essay/1163-getting-locked-out.php"><b> 14. Getting Locked Out </b></a></li>
-	<li><a href="/essay/1164-the-big-math-final.php"><b> 15. The Big Math Final </b></a></li>
-	<li><a href="/essay/1165-a-free-trip-to-hawaii.php"><b> 16. A Free Trip to Hawaii </b></a></li>
-	<li><a href="/essay/1166-dine-and-dash.php"><b> 17. Dine and Dash </b></a></li>
-	<li><a href="/essay/1167-the-local-news-report.php"><b> 18. The Local News Report </b></a></li>
-	<li><a href="/essay/1168-new-and-old-girlfriend.php"><b> 19. New and Old Girlfriend </b></a></li>
-	<li><a href="/essay/1169-three-roommates.php"><b> 20. Three Roommates </b></a></li>
-	<li><a href="/essay/1170-she-is-picky-with-jobs.php"><b> 21. She is Picky with Jobs </b></a></li>
-	<li><a href="/essay/1171-she-likes-being-alone.php"><b> 22. She Likes Being Alone </b></a></li>
-	<li><a href="/essay/1172-big-cell-phones.php"><b> 23. Big Cell Phones </b></a></li>
-	<li><a href="/essay/1173-getting-ready-for-work.php"><b> 24. Getting Ready for Work </b></a></li>
-	<li><a href="/essay/1174-the-struggle-of-waking-up-early.php"><b> 25. The Struggle of Waking Up Early </b></a></li>
-	<li><a href="/essay/1175-a-spare-key.php"><b> 26. A Spare Key </b></a></li>
-	<li><a href="/essay/1176-depending-on-tips-to-survive.php"><b> 27. Depending on Tips to Survive </b></a></li>
-	<li><a href="/essay/1177-saving-water.php"><b> 28. Saving Water </b></a></li>
-	<li><a href="/essay/1178-she-loves-drawing.php"><b> 29. She Loves Drawing </b></a></li>
-	<li><a href="/essay/1179-pencil-sharpeners.php"><b> 30. Pencil Sharpeners </b></a></li>
-	<li><a href="/essay/1180-scared-to-ask-questions.php"><b> 31. Scared to Ask Questions </b></a></li>
-	<li><a href="/essay/1181-she-saved-a-cat.php"><b> 32. She Saved a Cat </b></a></li>
-	<li><a href="/essay/1182-taking-the-bus-for-the-first-time.php"><b> 33. Taking the Bus for the First Time </b></a></li>
-	<li><a href="/essay/1183-car-wash-fundraiser.php"><b> 34. Car Wash Fundraiser </b></a></li>
-	<li><a href="/essay/1184-nail-polish.php"><b> 35. Nail Polish </b></a></li>
-	<li><a href="/essay/1185-to-return-a-sweater.php"><b> 36. To Return a Sweater </b></a></li>
-	<li><a href="/essay/1186-sweaters-knitted-by-grandma.php"><b> 37. Sweaters Knitted by Grandma </b></a></li>
-	<li><a href="/essay/1187-holes-in-jeans.php"><b> 38. Holes in Jeans </b></a></li>
-	<li><a href="/essay/1188-pb-j-sandwiches.php"><b> 39. PB & J Sandwiches </b></a></li>
-	<li><a href="/essay/1189-eating-healthy-and-exercising.php"><b> 40. Eating Healthy and Exercising </b></a></li>
-	<li><a href="/essay/1190-smoking-isn-t-cool.php"><b> 41. Smoking Isn't Cool </b></a></li>
-	<li><a href="/essay/1191-she-wants-to-get-twins.php"><b> 42. She Wants to Get Twins </b></a></li>
-	<li><a href="/essay/1192-sore-throat.php"><b> 43. Sore Throat </b></a></li>
-	<li><a href="/essay/1193-ed-lost-his-dog.php"><b> 44. Ed Lost his Dog </b></a></li>
-	<li><a href="/essay/1194-a-dangerous-favor.php"><b> 45. A Dangerous Favor </b></a></li>
-	<li><a href="/essay/1195-the-paperboy.php"><b> 46. The Paperboy </b></a></li>
-	<li><a href="/essay/1196-the-calculator-test.php"><b> 47. The Calculator Test </b></a></li>
-	<li><a href="/essay/1197-she-needs-to-drive.php"><b> 48. She Needs to Drive </b></a></li>
-	<li><a href="/essay/1198-a-yard-sale.php"><b> 49. A Yard Sale </b></a></li>
-	<li><a href="/essay/1199-a-bad-habit-dies-hard.php"><b> 50. A Bad Habit Dies Hard </b></a></li>
-	<li><a href="/essay/1200-a-cup-of-coffee-a-day.php"><b> 51. A Cup of Coffee A Day </b></a></li>
+	<li><a href="/essay/1150-a-very-colorful-garden.php">1. A Very Colorful Garden</a></li>
+	<li><a href="/essay/1151-sleepover.php">2. Sleepover</a></li>
+	<li><a href="/essay/1152-a-movie-marathon.php">3. A Movie Marathon</a></li>
+	<li><a href="/essay/1153-eating-healthy.php">4. Eating Healthy</a></li>
+	<li><a href="/essay/1154-exercising-together.php">5. Exercising Together</a></li>
+	<li><a href="/essay/1155-the-spill-on-his-shirt.php">6. The Spill on His Shirt</a></li>
+	<li><a href="/essay/1156-shopping-for-a-dress.php">7. Shopping for a Dress</a></li>
+	<li><a href="/essay/1157-choosing-a-college.php">8. Choosing a College</a></li>
+	<li><a href="/essay/1158-a-gift-for-father-s-day.php">9. A Gift for Father's Day</a></li>
+	<li><a href="/essay/1159-sticker-collection.php">10. Sticker Collection</a></li>
+	<li><a href="/essay/1160-a-garbage-guy.php">11. A Garbage Guy</a></li>
+	<li><a href="/essay/1161-going-to-the-aquarium.php">12. Going to the Aquarium</a></li>
+	<li><a href="/essay/1162-he-is-car-sick.php">13. He Is Car Sick</a></li>
+	<li><a href="/essay/1163-getting-locked-out.php">14. Getting Locked Out</a></li>
+	<li><a href="/essay/1164-the-big-math-final.php">15. The Big Math Final</a></li>
+	<li><a href="/essay/1165-a-free-trip-to-hawaii.php">16. A Free Trip to Hawaii</a></li>
+	<li><a href="/essay/1166-dine-and-dash.php">17. Dine and Dash</a></li>
+	<li><a href="/essay/1167-the-local-news-report.php">18. The Local News Report</a></li>
+	<li><a href="/essay/1168-new-and-old-girlfriend.php">19. New and Old Girlfriend</a></li>
+	<li><a href="/essay/1169-three-roommates.php">20. Three Roommates</a></li>
+	<li><a href="/essay/1170-she-is-picky-with-jobs.php">21. She is Picky with Jobs</a></li>
+	<li><a href="/essay/1171-she-likes-being-alone.php">22. She Likes Being Alone</a></li>
+	<li><a href="/essay/1172-big-cell-phones.php">23. Big Cell Phones</a></li>
+	<li><a href="/essay/1173-getting-ready-for-work.php">24. Getting Ready for Work</a></li>
+	<li><a href="/essay/1174-the-struggle-of-waking-up-early.php">25. The Struggle of Waking Up Early</a></li>
+	<li><a href="/essay/1175-a-spare-key.php">26. A Spare Key</a></li>
+	<li><a href="/essay/1176-depending-on-tips-to-survive.php">27. Depending on Tips to Survive</a></li>
+	<li><a href="/essay/1177-saving-water.php">28. Saving Water</a></li>
+	<li><a href="/essay/1178-she-loves-drawing.php">29. She Loves Drawing</a></li>
+	<li><a href="/essay/1179-pencil-sharpeners.php">30. Pencil Sharpeners</a></li>
+	<li><a href="/essay/1180-scared-to-ask-questions.php">31. Scared to Ask Questions</a></li>
+	<li><a href="/essay/1181-she-saved-a-cat.php">32. She Saved a Cat</a></li>
+	<li><a href="/essay/1182-taking-the-bus-for-the-first-time.php">33. Taking the Bus for the First Time</a></li>
+	<li><a href="/essay/1183-car-wash-fundraiser.php">34. Car Wash Fundraiser</a></li>
+	<li><a href="/essay/1184-nail-polish.php">35. Nail Polish</a></li>
+	<li><a href="/essay/1185-to-return-a-sweater.php">36. To Return a Sweater</a></li>
+	<li><a href="/essay/1186-sweaters-knitted-by-grandma.php">37. Sweaters Knitted by Grandma</a></li>
+	<li><a href="/essay/1187-holes-in-jeans.php">38. Holes in Jeans</a></li>
+	<li><a href="/essay/1188-pb-j-sandwiches.php">39. PB & J Sandwiches</a></li>
+	<li><a href="/essay/1189-eating-healthy-and-exercising.php">40. Eating Healthy and Exercising</a></li>
+	<li><a href="/essay/1190-smoking-isn-t-cool.php">41. Smoking Isn't Cool</a></li>
+	<li><a href="/essay/1191-she-wants-to-get-twins.php">42. She Wants to Get Twins</a></li>
+	<li><a href="/essay/1192-sore-throat.php">43. Sore Throat</a></li>
+	<li><a href="/essay/1193-ed-lost-his-dog.php">44. Ed Lost his Dog</a></li>
+	<li><a href="/essay/1194-a-dangerous-favor.php">45. A Dangerous Favor</a></li>
+	<li><a href="/essay/1195-the-paperboy.php">46. The Paperboy</a></li>
+	<li><a href="/essay/1196-the-calculator-test.php">47. The Calculator Test</a></li>
+	<li><a href="/essay/1197-she-needs-to-drive.php">48. She Needs to Drive</a></li>
+	<li><a href="/essay/1198-a-yard-sale.php">49. A Yard Sale</a></li>
+	<li><a href="/essay/1199-a-bad-habit-dies-hard.php">50. A Bad Habit Dies Hard</a></li>
+	<li><a href="/essay/1200-a-cup-of-coffee-a-day.php">51. A Cup of Coffee A Day</a></li>
 	<li><a href="/essay/1201-red-white-and-blue.php">Red, White, and Blue</a></li>
 	<li><a href="/essay/1202-try-to-sleep.php">Try to Sleep</a></li>
 	<li><a href="/essay/1203-washing-her-hands.php">Washing Her Hands</a></li>
