@@ -145,3 +145,37 @@ function zabuun_getParameterByName(name, url) {
 		}
 	});
 }(jQuery));
+
+/*
+ * collapse nav on mobile
+ */
+(function ($) {
+	"use strict";
+
+	var mql;
+
+	/**
+	 *
+	 * @param {Object} mediaQueryList The MediaQueryList object
+	 * @returns {undefined}
+	 */
+	function handleViewportWidthChange (mediaQueryList) {
+
+		if (mediaQueryList.matches) {
+
+			/* The viewport is <= 640px wide */
+			$("a.category + div").addClass("hidden");
+		} else {
+			/* The viewport is > 640px wide */
+		}
+	}
+
+	if (window.matchMedia) {
+		mql = window.matchMedia("screen and (max-width: 640px)");
+		mql.addListener(handleViewportWidthChange);
+
+		$(document).on("ready", function domContentLoaded () {
+			handleViewportWidthChange(mql);
+		});
+	}
+}(jQuery));
