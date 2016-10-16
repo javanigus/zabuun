@@ -1,4 +1,6 @@
+<a class="menu show hidden">Show Menu</a>
 <div class="side">
+	<a class="menu hide">Hide Menu</a>
 	<a class="category">Movies (1)</a>
 		<div class="container">
 			<ol class="dialogues">

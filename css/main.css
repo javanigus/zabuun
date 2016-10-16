@@ -7,8 +7,8 @@
  */
 
 /* ==========================================================================
-   Base styles: opinionated defaults
-   ========================================================================== */
+	Base styles: opinionated defaults
+	========================================================================== */
 
 html {
 	color: #222;
@@ -20,10 +20,10 @@ html {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ::-moz-selection {
 	background: #b3d4fc;
@@ -34,10 +34,10 @@ html {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ::selection {
 	background: #b3d4fc;
@@ -48,10 +48,10 @@ html {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 hr {
 	display: block;
@@ -66,10 +66,10 @@ hr {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 audio,
 canvas,
@@ -84,10 +84,10 @@ video {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 fieldset {
 	border: 0;
@@ -99,10 +99,10 @@ fieldset {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 textarea {
 	resize: vertical;
@@ -112,10 +112,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .browserupgrade {
 	margin: 0.2em 0;
@@ -128,10 +128,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 body,
 li:before,
@@ -149,10 +149,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.header {
 	min-height: 100px;
@@ -164,10 +164,10 @@ div.header {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p {
 	margin: 0;
@@ -178,10 +178,10 @@ p {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p.logo {
 	color: #fff;
@@ -196,10 +196,10 @@ p.logo {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.button-container {
 	display: inline-block;
@@ -212,10 +212,10 @@ div.button-container {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 a.button {
 	background-color: #ca1923;
@@ -232,10 +232,10 @@ a.button {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 a.button:hover {
 	background-color: #998675;
@@ -246,10 +246,10 @@ a.button:hover {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.subheader {
 	background-color: #998675;
@@ -262,10 +262,10 @@ div.subheader {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p.learn {
 	color: #fff;
@@ -279,10 +279,10 @@ p.learn {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.content {
 	display: flex;
@@ -293,10 +293,10 @@ div.content {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.main {
 	flex-grow: 1;
@@ -307,10 +307,10 @@ div.main {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.footer {
 	background-color: #998675;
@@ -324,10 +324,10 @@ div.footer {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.footer p {
 	margin-bottom: 0;
@@ -338,10 +338,10 @@ div.footer p {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 a.category {
 	background-color: #e1e1e1;
@@ -358,10 +358,10 @@ a.category {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 a.category:hover {
 	background-color: #998675;
@@ -373,10 +373,10 @@ a.category:hover {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p.topic {
 	font-weight: 700;
@@ -389,10 +389,10 @@ p.topic {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ol.dialogues {
 	margin-top: 0;
@@ -403,10 +403,10 @@ ol.dialogues {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ol.dialogues a {
 	text-decoration: none;
@@ -417,10 +417,10 @@ ol.dialogues a {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ol.dialogues a:hover {
 	text-decoration: underline;
@@ -430,10 +430,10 @@ ol.dialogues a:hover {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.location {
 	background-color: #f5f5f5;
@@ -450,10 +450,10 @@ div.location {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.location p {
 	margin-bottom: 0;
@@ -463,10 +463,10 @@ div.location p {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.main a {
 	text-decoration: none;
@@ -477,10 +477,10 @@ div.main a {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.main a:hover {
 	text-decoration: underline;
@@ -490,10 +490,10 @@ div.main a:hover {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.sentence-container {
 	padding: 1em 0.9em;
@@ -505,10 +505,10 @@ div.sentence-container {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.sentence-container:hover {
 	background-color: #efefef;
@@ -518,10 +518,10 @@ div.sentence-container:hover {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.sentence {
 	min-height: 40px;
@@ -535,10 +535,10 @@ div.sentence {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.sentence p {
 	margin-bottom: 0;
@@ -548,10 +548,10 @@ div.sentence p {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p.english {
 	font-weight: 600;
@@ -562,10 +562,10 @@ p.english {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p.arabic {
 	font-size: 1.7em;
@@ -577,10 +577,10 @@ p.arabic {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.main a.getaccess {
 	background-color: #ec1d29;
@@ -593,10 +593,10 @@ div.main a.getaccess {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.main a.getaccess:hover {
 	text-decoration: none;
@@ -607,10 +607,10 @@ div.main a.getaccess:hover {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p.transliteration {
 	text-align: right;
@@ -620,10 +620,10 @@ p.transliteration {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p.word {
 	display: inline-block;
@@ -637,10 +637,10 @@ p.word {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 audio {
 	width: 100%;
@@ -650,10 +650,10 @@ audio {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.overlay-container {
 	position: relative;
@@ -663,10 +663,10 @@ div.overlay-container {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.overlay {
 	height: 100%;
@@ -679,10 +679,10 @@ div.overlay {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .videoWrapper {
 	display: block;
@@ -696,10 +696,10 @@ div.overlay {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.controls {
 	justify-content: center;
@@ -711,10 +711,10 @@ div.controls {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 div.controls p {
 	background-color: #efefef;
@@ -728,10 +728,10 @@ div.controls p {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 p.halfspeed {
 	font-size: 0.9em;
@@ -745,10 +745,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media screen and (max-width: 640px) {
 }
@@ -757,10 +757,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .hidden {
 	display: none !important;
@@ -770,10 +770,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .visuallyhidden {
 	border: 0;
@@ -790,10 +790,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
@@ -809,10 +809,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .invisible {
 	visibility: hidden;
@@ -822,10 +822,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .clearfix:before,
 .clearfix:after {
@@ -837,10 +837,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .clearfix:after {
 	clear: both;
@@ -850,10 +850,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media only screen and (min-width: 35em) {
 }
@@ -862,25 +862,25 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media print,
-	   (-webkit-min-device-pixel-ratio: 1.25),
-	   (min-resolution: 1.25dppx),
-	   (min-resolution: 120dpi) {
+		(-webkit-min-device-pixel-ratio: 1.25),
+		(min-resolution: 1.25dppx),
+		(min-resolution: 120dpi) {
 }
 
 
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media print {
 }
@@ -889,10 +889,10 @@ p.halfspeed {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 html {
 	color: #222;
@@ -903,10 +903,10 @@ html {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 audio,
 canvas,
@@ -921,10 +921,10 @@ video {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 fieldset {
 	border: 0;
@@ -936,10 +936,10 @@ fieldset {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 textarea {
 	resize: vertical;
@@ -949,10 +949,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .browserupgrade {
 	margin: 0.2em 0;
@@ -965,10 +965,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .visuallyhidden {
 	border: 0;
@@ -985,10 +985,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
@@ -1004,10 +1004,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .invisible {
 	visibility: hidden;
@@ -1017,10 +1017,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .clearfix:before,
 .clearfix:after {
@@ -1032,10 +1032,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .clearfix:after {
 	clear: both;
@@ -1045,10 +1045,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media only screen and (min-width: 35em) {
 }
@@ -1057,25 +1057,25 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media print,
-	   (-webkit-min-device-pixel-ratio: 1.25),
-	   (min-resolution: 1.25dppx),
-	   (min-resolution: 120dpi) {
+		(-webkit-min-device-pixel-ratio: 1.25),
+		(min-resolution: 1.25dppx),
+		(min-resolution: 120dpi) {
 }
 
 
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media print {
 }
@@ -1084,10 +1084,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ::-moz-selection {
 	background: #b3d4fc;
@@ -1098,10 +1098,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ::selection {
 	background: #b3d4fc;
@@ -1112,10 +1112,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 hr {
 	display: block;
@@ -1128,10 +1128,10 @@ hr {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ::-moz-selection {
 	background: #b3d4fc;
@@ -1140,10 +1140,10 @@ hr {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 ::selection {
 	background: #b3d4fc;
@@ -1152,10 +1152,10 @@ hr {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 hr {
 	display: block;
@@ -1168,10 +1168,10 @@ hr {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 audio,
 canvas,
@@ -1184,10 +1184,10 @@ video {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 fieldset {
 	border: 0;
@@ -1197,10 +1197,10 @@ fieldset {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 textarea {
 	resize: vertical;
@@ -1208,10 +1208,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .browserupgrade {
 	margin: 0.2em 0;
@@ -1222,10 +1222,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .visuallyhidden {
 	border: 0;
@@ -1240,10 +1240,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .visuallyhidden.focusable:active,
 .visuallyhidden.focusable:focus {
@@ -1257,10 +1257,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .invisible {
 	visibility: hidden;
@@ -1268,10 +1268,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .clearfix:before,
 .clearfix:after {
@@ -1281,10 +1281,10 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 .clearfix:after {
 	clear: both;
@@ -1292,33 +1292,33 @@ textarea {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media only screen and (min-width: 35em) {
 }
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media print,
-	   (-webkit-min-device-pixel-ratio: 1.25),
-	   (min-resolution: 1.25dppx),
-	   (min-resolution: 120dpi) {
+		(-webkit-min-device-pixel-ratio: 1.25),
+		(min-resolution: 1.25dppx),
+		(min-resolution: 120dpi) {
 }
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media print {
 }
@@ -1388,8 +1388,8 @@ textarea {
 }
 
 /* ==========================================================================
-   Browser Upgrade Prompt
-   ========================================================================== */
+	Browser Upgrade Prompt
+	========================================================================== */
 
 .browserupgrade {
 	margin: 0.2em 0;
@@ -1399,8 +1399,8 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+	Author's custom styles
+	========================================================================== */
 body,
 li:before,
 .ui-widget,
@@ -1630,10 +1630,66 @@ p.logo a {
 }
 span.ar.quranText.top.rtl {
 	text-align: center;
-	display: block;
+	 display: block;
+	 font-size: 2.4em;
 }
 span.word.staticWord {
 	display: inline-block;
+	padding: 0.2em 1em;
+}
+span.word.staticWord:hover {
+	 background-color: #ff0;
+	 cursor: context-menu;
+}
+span.en {
+	text-align: center;
+	display: block;
+}
+p.ayah {
+	font-family: 'KFGQPC Uthman Taha Naskh';
+	padding: 1em;
+	border-bottom: 1px solid #ccc;
+	margin-bottom: 0;
+	position: relative;
+}
+p.ayah:hover {
+	background-color: #f5f5f5;
+}
+span.verse-number {
+	 position: absolute;
+	 bottom: 0.4em;
+	 font-size: 2em;
+	 left: 0;
+	 background-color: #534741;
+	 color: #efefef;
+	 padding: 0 0.4em;
+}
+a.menu {
+	background-color: #534741;
+	color: #fff;
+	padding: 0.3em 0.5em;
+	display: inline-block;
+	margin-bottom: 1em;
+}
+a.menu:hover {
+	background-color: #998675;
+	cursor: pointer;
+}
+a.menu.show {
+	-webkit-transform: rotate(90deg);
+	-moz-transform: rotate(90deg);
+	-o-transform: rotate(90deg);
+	-ms-transform: rotate(90deg);
+	transform: rotate(90deg);
+	position: fixed;
+	margin-bottom: 0;
+	left: 0;
+	margin-left: -2.3em;
+	top: 50vh;
+	z-index: 100;
+}
+div.main.full-width {
+	padding-left: 3em;
 }
 /* mobile css for Research SANS@ RISK section */
 @media screen and (max-width: 640px) {
@@ -1706,14 +1762,14 @@ span.word.staticWord {
 	}
 }
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 /* ==========================================================================
-   Helper classes
-   ========================================================================== */
+	Helper classes
+	========================================================================== */
 
 /*
  * Hide visually and from screen readers
@@ -1786,27 +1842,27 @@ span.word.staticWord {
 }
 
 /* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
-   ========================================================================== */
+	EXAMPLE Media Queries for Responsive Design.
+	These examples override the primary ('mobile first') styles.
+	Modify as content requires.
+	========================================================================== */
 
 @media only screen and (min-width: 35em) {
 	/* Style adjustments for viewports that meet the condition */
 }
 
 @media print,
-	   (-webkit-min-device-pixel-ratio: 1.25),
-	   (min-resolution: 1.25dppx),
-	   (min-resolution: 120dpi) {
+		(-webkit-min-device-pixel-ratio: 1.25),
+		(min-resolution: 1.25dppx),
+		(min-resolution: 120dpi) {
 	/* Style adjustments for high resolution devices */
 }
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 @media print {
 	*,
@@ -1816,7 +1872,7 @@ span.word.staticWord {
 	*:first-line {
 		background: transparent !important;
 		color: #000 !important; /* Black prints faster:
-								   http://www.sanbeiji.com/archives/953 */
+									http://www.sanbeiji.com/archives/953 */
 		box-shadow: none !important;
 		text-shadow: none !important;
 	}
@@ -1884,10 +1940,10 @@ span.word.staticWord {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 html {
 	color: #222;
@@ -1899,10 +1955,10 @@ html {
 
 
 /* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   http://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
+	Print styles.
+	Inlined to avoid the additional HTTP request:
+	http://www.phpied.com/delay-loading-your-print-css/
+	========================================================================== */
 
 html {
 	color: #222;
