@@ -1,0 +1,29 @@
+<!doctype html>
+<html class="no-js" lang="">
+	<head>
+		<title>Zabuun - Learn Arabic for English Speakers</title>
+		<meta name="description" content="">
+		<?php include '/layout/head.php';?>
+	</head>
+	<body>
+		<?php include '/layout/ie8.php';?>
+		<?php include '/layout/header.php';?>
+		<div class="content">
+			<?php include '/layout/side.php';?>
+			<div class="main">
+				<div class="location">
+					<p class="expandcollapse">
+						<a href="">Modern Standard Arabic (MSA)</a> | <a href="">Egyptian Colloquial Arabic (ECA)</a> | <a href="">Both</a>
+					</p>
+				</div>
+				<!-- begin dialogue -->
+				<h1>Renting an Apartment</h1>
+				<h2>Warning about Late Rent Payment</h2>
+				    <b>A:</b> Hello, Nicole here.<br>   <b>B:</b> Nicole, this is Richard. I think you know why I'm calling.<br>   <b>A:</b> Oh, it's about the rent.<br>   <b>B:</b> Yes, this is the second month in a row.<br>   <b>A:</b> I thought there was a grace period.<br>   <b>B:</b> There is no grace period in the rental agreement.<br>   <b>A:</b> Oh, I guess I forgot.<br>   <b>B:</b> Well, when can I expect the rent?<br>   <b>A:</b> You'll get it by Monday.<br>   <b>B:</b> Don't forget the $50 late fee.<br>   <b>A:</b> Is that in the rental agreement?<br>   <b>B:</b> The late fee is circled in red ink!<br>   <b>A:</b> Oh, Well, I can't find my copy of the agreement.<br>   <b>B:</b> If you're late next month, I might give you an eviction notice.<br>    <hr>          <b>A:</b> Hi, this is Nicole.<br>   <b>B:</b> Hi, Nicole. Richard here. I think you've got a good idea why I'm calling.<br>   <b>A:</b> Yes. It's about the rent, isn't it?<br>   <b>B:</b> Yes, your rent is late. This is the second month in a row.<br>   <b>A:</b> But I thought that I had a grace period.<br>   <b>B:</b> I told you last month that the rental agreement contains no grace period.<br>   <b>A:</b> Oh, I guess I was thinking about the last place that I lived.<br>   <b>B:</b> Well, tell me when I'm going to get your rent.<br>   <b>A:</b> I get paid tomorrow, so you'll get the check by Monday.<br>   <b>B:</b> Don't forget to include the $50 late fee.<br>   <b>A:</b> Are you sure a late fee is in the rental agreement?<br>   <b>B:</b> How could you miss the late fee? It's circled in red ink!<br>   <b>A:</b> I can't find my copy of the rental agreement. I know it's somewhere in my    apartment.<br>   <b>B:</b> If you're late one more time, I'm probably going to evict you.<br>    <hr>          <b>A:</b> Hello, Nicole here. Who's calling, please?<br>   <b>B:</b> Hey, Nicole. It's Richard. I'm pretty sure you know why I'm calling.<br>   <b>A:</b> Yes, a dollar gets a dime that you're calling about the rent.<br>   <b>B:</b> Nicole, for the second month in a row, your rent is late.<br>   <b>A:</b> I thought you said there is a grace period.<br>   <b>B:</b> No, I didn't. There was no grace period last month, this month, or any    month.<br>   <b>A:</b> Maybe I'm confusing this place with my last place.<br>   <b>B:</b> Well, I'm waiting to receive your rent check.<br>   <b>A:</b> I get my money tomorrow, so I can pay you by Monday.<br>   <b>B:</b> Remember, just like last month, you have to pay the $50 late fee.<br>   <b>A:</b> I don't remember seeing a late fee in the rental agreement.<br>   <b>B:</b> If you look at your agreement, you'll see the late fee circled in red ink!<br>   <b>A:</b> I forget where I put my rental agreement.<br>   <b>B:</b> One more late check, and you're looking at eviction.<br>    <hr>          <b>A:</b> Hello. This is Nicole.<br>   <b>B:</b> This is Richard. Let's not play games. You know why I'm calling.<br>   <b>A:</b> Oh, not again! You're calling about the rent.<br>   <b>B:</b> Yes, your rent check is late, just like last month.<br>   <b>A:</b> What happened to my grace period?<br>   <b>B:</b> Why would there be a grace period this month? There wasn't one last month.<br>   <b>A:</b> I guess I might be a little confused.<br>   <b>B:</b> What day in the near future can I expect your check?<br>   <b>A:</b> My boss told me he will pay me tomorrow. You'll get my check by Monday.<br>   <b>B:</b> Remember to include the $50 late fee.<br>   <b>A:</b> Are you sure the rental agreement included a late fee?<br>   <b>B:</b> The red ink around the late fee in your agreement should tell you    something.<br>   <b>A:</b> I seem to have lost my rental agreement.<br>   <b>B:</b> Don't be late again, or you'll be evicted.<br>    <hr>          <b>A:</b> Hi, this is Nicole.<br>   <b>B:</b> Nicole, it's Richard. You know why I'm calling.<br>   <b>A:</b> Yes, I know. It's the rent, isn't it?<br>   <b>B:</b> Yes, just like last month, your rent is overdue.<br>   <b>A:</b> What about my grace period?<br>   <b>B:</b> Are you getting Alzheimer's? There is no grace period in the rental    agreement.<br>   <b>A:</b> Sometimes my memory isn't so good. Maybe I do have Alzheimer's.<br>   <b>B:</b> I'm looking forward to receiving your check in the very near future.<br>   <b>A:</b> Is Monday okay? I get paid tomorrow.<br>   <b>B:</b> Remember that the check amount must include the $50 late fee.<br>   <b>A:</b> Okay, if the rental agreement actually has a late fee, I'll pay the fifty dollars.<br>   <b>B:</b> Look at your agreement. There's a big red circle around the late fee.<br>   <b>A:</b> As soon as I find my rental agreement, I'll read it again.<br>   <b>B:</b> I'm not giving you any more chances. Be late again, and you'll be evicted.<br>
+				<!-- end dialogue -->
+			</div>
+		</div>
+		<?php include '/layout/footer.php';?>
+		<?php include '/layout/scripts.php';?>
+	</body>
+</html>
