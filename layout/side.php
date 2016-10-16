@@ -1,17 +1,17 @@
 <div class="side">
-	<a class="category">Movies (1)</a>
+	<a class="category" id="movies">Movies (1)</a>
 		<div class="container">
 			<ol class="dialogues">
 				<li><a href="/assal-eswed.php">Assal Eswed</a></li>
 			</ol>
 		</div>
-	<a class="category">Songs (1)</a>
+	<a class="category" id="songs">Songs (1)</a>
 		<div class="container">
 			<ol class="dialogues">
 				<li><a href="/index.php">Habibi Ya Nuur Al-Ain</a></li>
 			</ol>
 		</div>
-	<a class="category">Quran (114)</a>
+	<a class="category" id="quran">Quran (114)</a>
 		<div class="container">
 			<ol class="dialogues">
 				<li><a href="/quran/1/?fromVerse=1&toVerse=7&hideMenu=false&hideHeader=false">Al-Fatihah (The Opening) [7]</a></li>
@@ -130,7 +130,7 @@
 				<li><a href="/quran/114/?fromVerse=1&toVerse=6&hideMenu=false&hideHeader=false">An-Nas (The Men) [6]</a></li>
 			</ol>
 		</div>
-	<a class="category">Dialogues (1481)</a>
+	<a class="category" id="dialogues">Dialogues (1481)</a>
 		<div class="container">
 				<p class="topic">School Life</p><ol class="dialogues">
 		<li><a href="/dialogue/0001-school-life-buying-textbooks.php">Buying Textbooks</a></li>
@@ -1690,7 +1690,7 @@
 		</ol>
 
 		</div>
-	<a class="category">Essays (2498)</a>
+	<a class="category" id="essays">Essays (2498)</a>
 		<div class="container">
 		<ol class="dialogues">
 	<li><a href="/essay/0001-going-to-the-zoo.php">Going to the Zoo</a></li>

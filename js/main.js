@@ -14,13 +14,28 @@ function zabuun_getParameterByName(name, url) {
 (function ($) {
 	"use strict";
 
+	//localStorage.clear();
+
 	$(document).on("ready", function () {
+		if (typeof(Storage) !== "undefined") {
+			for (var i = 0; i < localStorage.length; i++){
+				$("#" + localStorage.key(i) + " + div").addClass("hidden");
+			}
+		}
+
 		$("a.category").on("click", function (event) {
 			var $div = $(event.currentTarget).next("div.container");
+			var id = $(event.currentTarget).attr("id");
 			if ($div.hasClass("hidden")) {
 				$div.removeClass("hidden");
+				if (typeof(Storage) !== "undefined") {
+					localStorage.removeItem(id);
+				}
 			} else {
 				$div.addClass("hidden");
+				if (typeof(Storage) !== "undefined") {
+					localStorage.setItem(id, "hidden");
+				}
 			}
 		});
 	});
