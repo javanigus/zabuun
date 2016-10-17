@@ -208,7 +208,6 @@ function zabuun_getParameterByName(name, url) {
 						obj["verse"] = surahVerse.split("-")[1];
 						obj["index"] = id.split(":")[1];
 						if (obj.surah === chapter) {
-							console.log("p.ayah." + surahVerse + " span.staticWord:nth-child(" + obj["index"] + ")");
 							$("p.ayah." + surahVerse + " span.staticWord:nth-child(" + obj["index"] + ")").addClass("saved");
 						}
 					}
@@ -230,3 +229,9 @@ function zabuun_getParameterByName(name, url) {
 		}
 	});
 }(jQuery));
+
+for (var i = 0; i < localStorage.length; i++){
+	var key = localStorage.key(i);
+	var value = localStorage.getItem(key);
+	console.log("KEY:" + key + ", VALUE:" + value);
+}
