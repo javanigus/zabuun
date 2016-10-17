@@ -1641,6 +1641,9 @@ span.word.staticWord:hover {
 	 background-color: #ff0;
 	 cursor: context-menu;
 }
+span.word.staticWord.saved {
+	background-color: #00ffff;
+}
 span.en {
 	text-align: center;
 	display: block;
@@ -1665,7 +1668,8 @@ span.verse-number {
 	 padding: 0 0.4em;
 }
 div.main a.menu,
-div.main a.header {
+div.main a.header,
+div.main a.vocabulary {
 	background-color: #534741;
 	color: #fff;
 	padding: 0.3em 0.5em;
@@ -1674,7 +1678,8 @@ div.main a.header {
 	text-decoration: none;
 }
 div.main a.menu:hover,
-div.main a.header:hover {
+div.main a.header:hover,
+div.main a.vocabulary:hover {
 	background-color: #998675;
 	cursor: pointer;
 }

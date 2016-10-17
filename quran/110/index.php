@@ -13,6 +13,7 @@
 			<div class="main">
 				<h1>Word-for-Word Arabic-English Translation of the Quran</h1>
 				<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/page-options.php';?>
+				<?php include $_SERVER['DOCUMENT_ROOT'].'/layout/vocabulary.php';?>
 				<div class="location">
 					<p class="breadcrumbs">Quran > An-Nasr</p>
 				</div>
