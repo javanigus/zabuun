@@ -3,6 +3,7 @@
 	<div class="button-container">
 		<a class="join button" href="#">Join</a>
 		<a class="login button" href="#">Log In</a>
+		<a class="resources button" href="/resources.php">Resources</a>
 	</div>
 </div>
 <div class="subheader">
