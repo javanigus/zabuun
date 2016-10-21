@@ -130,27 +130,6 @@ function zabuun_getParameterByName(name, url) {
 }(jQuery));
 
 /*
- * show/hide range of verses
- */
-(function ($) {
-	"use strict";
-
-	$(document).on("ready", function () {
-		if (window.location.pathname.indexOf("/quran/") !== -1) {
-			var fromVerse = parseInt(zabuun_getParameterByName('fromVerse'));
-			var toVerse = parseInt(zabuun_getParameterByName('toVerse'));
-
-			if (fromVerse <= toVerse) {
-				$("p.ayah").addClass("hidden");
-				for (var verse=fromVerse; verse <= toVerse; verse++) {
-					$("#" + verse).removeClass("hidden");
-				}
-			}
-		}
-	});
-}(jQuery));
-
-/*
  * collapse nav on mobile
  */
 (function ($) {
@@ -185,53 +164,25 @@ function zabuun_getParameterByName(name, url) {
 }(jQuery));
 
 /*
- * save quran words to local storage
+ * scroll to any element
  */
 (function ($) {
 	"use strict";
 
-	//localStorage.clear();
-
 	$(document).on("ready", function () {
-		if (window.location.pathname.indexOf("/quran/") === 0) {
-			var chapter = window.location.pathname.split("/")[2];
-
-			if (typeof(Storage) !== "undefined") {
-				for (var i = 0; i < localStorage.length; i++){
-					var id = localStorage.key(i);
-					if (id.indexOf("verse-") === 0) {
-						var obj = {};
-						obj["word"] = localStorage.getItem(id);
-						id = id.replace("verse-", "");
-						var surahVerse = id.split(":")[0];
-						obj["surah"] = surahVerse.split("-")[0];
-						obj["verse"] = surahVerse.split("-")[1];
-						obj["index"] = id.split(":")[1];
-						if (obj.surah === chapter) {
-							$("p.ayah." + surahVerse + " span.staticWord:nth-child(" + obj["index"] + ")").addClass("saved");
-						}
-					}
-				}
-
-				$("span.staticWord").on("click", function (event) {
-					var wordHtml = $(event.currentTarget)[0].outerHTML;
-					var index = $(event.currentTarget).index()+1;
-					var verse = $(event.currentTarget).parents("p.ayah").attr("class").replace("ayah ", "");
-					if ($(event.currentTarget).hasClass("saved")) {
-						$(event.currentTarget).removeClass("saved");
-						localStorage.removeItem("verse-"+ verse + ":" + index);
-					} else {
-						$(event.currentTarget).addClass("saved");
-						localStorage.setItem("verse-"+ verse + ":" + index, wordHtml);
-					}
-				});
-			}
+		if (window.location.hash.length > 1) {
+			var selector = window.location.hash.replace(/^#/, "");
+			console.log(selector);
+			$("html, body").animate({
+				scrollTop: $(selector).offset().top
+			}, 1000);
 		}
 	});
 }(jQuery));
 
-for (var i = 0; i < localStorage.length; i++){
+// FOR DEBUGGING LOCAL STORAGE
+/*for (var i = 0; i < localStorage.length; i++){
 	var key = localStorage.key(i);
 	var value = localStorage.getItem(key);
 	console.log("KEY:" + key + ", VALUE:" + value);
-}
+}*/
