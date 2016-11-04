@@ -259,6 +259,8 @@ p.arabic {
 	font-size: 1.7em;
 	text-align: right;
 	margin-top: -0.3em;
+	font-family: 'DroidArabicNaskhRegular', serif;
+	line-height: 1.6;
 }
 div.main a.getaccess {
 	background-color: #ec1d29;
@@ -381,6 +383,10 @@ h1 {
 }
 h2 {
 	font-size: 1.2em;
+}
+div.videocontainer {
+	display: flex;
+	justify-content: center;
 }
 /* mobile css for Research SANS@ RISK section */
 @media screen and (max-width: 640px) {
